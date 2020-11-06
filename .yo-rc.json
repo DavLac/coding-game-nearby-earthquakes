@@ -1,0 +1,38 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "fr.dla.app.earthquakes"
+    },
+    "jhipsterVersion": "6.10.1",
+    "applicationType": "microservice",
+    "baseName": "earthquakes",
+    "packageName": "fr.dla.app.earthquakes",
+    "packageFolder": "fr/dla/app/earthquakes",
+    "serverPort": "8081",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "no",
+    "devDatabaseType": "no",
+    "prodDatabaseType": "no",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "gradle",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "NjZkNzhjNDFmMTYwY2EwYTM3OTVhM2EyNWJmNmUzMmY5NjQyYTMxYzMwZDMwZjZlZjVmNmQ5N2FjYTE5OGIzMzA4YTU3MGY5Y2Y4ZTNjZjIwODc3MzQ3ZjU2M2UxMTJlNjc4OTQ0ZGEyYmI5MTcyYWY3ZjI5OGZkMDI1YWQ2NGE=",
+    "embeddableLaunchScript": false,
+    "creationTimestamp": 1603440298922,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "clientPackageManager": "npm",
+    "blueprints": [],
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}

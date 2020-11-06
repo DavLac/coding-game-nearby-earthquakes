@@ -1,0 +1,12 @@
+
+  ${AnsiColor.GREEN} _   _                 _             _____           _   _                       _
+  ${AnsiColor.GREEN}| \ | |               | |           |  ___|         | | | |                     | |
+  ${AnsiColor.GREEN}|  \| | ___  __ _ _ __| |__  _   _  | |__  __ _ _ __| |_| |__   __ _ _   _  __ _| | _____  ___
+  ${AnsiColor.GREEN}| . ` |/ _ \/ _` | '__| '_ \| | | | |  __|/ _` | '__| __| '_ \ / _` | | | |/ _` | |/ / _ \/ __|
+  ${AnsiColor.GREEN}| |\  |  __/ (_| | |  | |_) | |_| | | |__| (_| | |  | |_| | | | (_| | |_| | (_| |   <  __/\__ \
+  ${AnsiColor.GREEN}\_| \_/\___|\__,_|_|  |_.__/ \__, | \____/\__,_|_|   \__|_| |_|\__, |\__,_|\__,_|_|\_\___||___/
+  ${AnsiColor.GREEN}                              __/ |                               | |
+  ${AnsiColor.GREEN}                             |___/                                |_|
+
+${AnsiColor.BRIGHT_BLUE}:: JHipster 🤓  :: Running Spring Boot ${spring-boot.version} ::
+:: https://www.jhipster.tech ::${AnsiColor.DEFAULT}
