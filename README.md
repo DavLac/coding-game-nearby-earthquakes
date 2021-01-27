@@ -15,7 +15,7 @@ List 10 earthquakes that happened in the closest proximity to input point, in th
 
 - **Http method** : GET
 - **URI** : /api/earthquakes/nearby
-- **DEV profile url example** : http://localhost:8081/api/earthquakes/nearby?latitude=40.730610&longitude=-73.935242
+- **DEV profile url example** : http://localhost:PORT_NUMBER/api/earthquakes/nearby?latitude=40.730610&longitude=-73.935242
 
 ### Parameters
 

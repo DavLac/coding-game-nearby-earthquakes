@@ -2,11 +2,30 @@
 
 [Back to main Readme.md](README.md)
 
-## Starting the application with Docker
+## Run with Docker
 
-Just execute **start.sh** at the root of the project.  
-1 container will be launched : the Nearby Earthquakes application.  
-You can reach the microservice on port **8081**.
+### Prerequisites
+
+Get Docker app
+
+### Run with batch
+
+Just execute **start.sh** at the root of the project.
+The container will be built and launched : the Nearby Earthquakes application.  
+You can reach the microservice on port **8080**.
+
+### Run with Docker Hub image
+
+You can get the image on Docker Hub.
+To run the container, just type this command line (change the desired port number before):
+
+```
+
+docker run -p PORT_NUMBER:8080 davlac/nearby-earthquakes
+
+```
+
+[Docker image on Docker Hub davlac/nearby-earthquakes](https://hub.docker.com/repository/docker/davlac/nearby-earthquakes)
 
 ## Development
 
